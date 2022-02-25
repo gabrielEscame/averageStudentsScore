@@ -1,4 +1,4 @@
-# averageStudentsSocre
+# Average students score
 
 [Python for astronomers](https://prappleizer.github.io/)
 
